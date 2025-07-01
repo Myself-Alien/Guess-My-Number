@@ -15,7 +15,7 @@ function checkGuess() {
         message.textContent = "Too low! Try again.";
         flashColor("red");
     } else {
-        message.textContent = "🎉 Correct! You guessed it!";
+        message.textContent = "Correct! You guessed it!";
         document.body.style.backgroundColor = "green";
         document.getElementById("guessInput").disabled = true;
     }
@@ -23,7 +23,7 @@ function checkGuess() {
 }
 
 function flashColor(color) {
-    document.body.style.backgroundColor = '#E55050';
+    document.body.style.backgroundColor = 'red';
     setTimeout(() => {
         document.body.style.backgroundColor = "";
     }, 3000);
