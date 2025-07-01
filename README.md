@@ -11,8 +11,8 @@ A fun and interactive number guessing game built using **HTML**, **CSS**, and **
 - Simple and clean UI design
 
 ## 📸 Screenshot
+![Capture](https://github.com/user-attachments/assets/2686b110-6008-4db5-90a6-ecd7f46ca2d8)
 
-*(Add a screenshot of your game here if you'd like)*
 
 ## 🛠️ Technologies Used
 
